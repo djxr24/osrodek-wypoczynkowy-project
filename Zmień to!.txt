@@ -1,0 +1,19 @@
+// promocje
+// ID_domek (pole wybierz) // bierz nazwe a nie ID domku w wyswietlaniu
+
+Przy dodawaniu : // przy wyswietlaniu :>
+kontrakty
+ID_firma (pole wybierz)
+
+rezerwacje
+ID_domek pole wybierz  // bierz nazwe a nie ID domku w wyswietlaniu
+ID_klient pole wybierz  // bierz nazwe a nie ID domku w wyswietlaniu
+
+//waliduj czy wype³niono wszytkie pola formularza w zatwierz.php - poorównaj czy zgadza siê iloœæ przekazywanych zmiennych w tablicy post wartosci
+
+waliduj czy usuwany domek jest zakwaterowany
+
+odtad zmienic - dotad zmienic w domki.php
+
+
+
