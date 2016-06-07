@@ -1,0 +1,44 @@
+INSERT
+
+echo "Pomyœlnie dodano rekord do bazy<br>";
+
+echo "Taki domek ju¿ istnieje<br>";
+echo "<a href='domki.php'>Wróæ</a>";
+header( 'refresh: 5; url=domki.php' );
+
+UPDATE
+
+Nazwa = '$stara_nazwa_domku' AND Opis = '$stary_opis_domku'
+
+echo "Pomyœlnie zedytowano rekord z bazy<br>";
+						echo $stara_nazwa_domku."<br>";
+						echo $stary_opis_domku."<br>";
+						echo $stara_cena_domku."<br>";
+						echo "na:<br>";
+						echo $nazwa_domku."<br>";
+						echo $opis_domku."<br>";
+						echo $cena_domku."<br>";
+						echo "<a href='domki.php'>Wróæ</a>";
+						header( 'refresh: 5; url=domki.php' ); // przekieruj po 5 sek
+
+echo "Taki domek ju¿ istnieje lub nie zeedytowano wpisu...<br>";
+echo "<a href='domki.php'>Wróæ</a>";
+header( 'refresh: 5; url=domki.php' );
+
+DELETE
+
+Nazwa = '$nazwa_domku' AND Opis = '$opis_domku'
+
+echo "Usuniêto rekord z bazy<br>";
+					echo $nazwa_domku."<br>";
+					echo $opis_domku."<br>";
+					echo "<a href='domki.php'>Wróæ</a>";
+					header( 'refresh: 5; url=domki.php' );
+
+echo "B³¹d. Nie usuniêto rekordu z bazy";	
+					echo "<a href='domki.php'>Wróæ</a>";
+					header( 'refresh: 5; url=domki.php' );
+
+
+
+

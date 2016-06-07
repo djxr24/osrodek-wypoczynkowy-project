@@ -1,0 +1,13 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="296" xOffset="0" scrollWidth="2248" startPos="7728" endPos="7728" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\domki\zatwierdz.php" backupFilePath="" originalFileLastModifTimestamp="1464278014" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1224" startPos="513" endPos="513" selMode="0" lang="Zwyk&#x0142;y tekst" encoding="-1" filename="C:\xampp\htdocs\domki\Zmie&#x0144; to!.txt" backupFilePath="" originalFileLastModifTimestamp="1464272860" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1680" startPos="2693" endPos="2546" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\domki\stare zatwierdz_domki.php" backupFilePath="" originalFileLastModifTimestamp="1463228834" />
+        </mainView>
+        <subView activeIndex="1">
+            <File firstVisibleLine="265" xOffset="87" scrollWidth="1680" startPos="10057" endPos="10057" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\domki\domki.php" backupFilePath="" originalFileLastModifTimestamp="1464271074" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="680" startPos="0" endPos="0" selMode="0" lang="Zwyk&#x0142;y tekst" encoding="-1" filename="C:\xampp\htdocs\domki\temp.txt" backupFilePath="" originalFileLastModifTimestamp="1464272892" />
+        </subView>
+    </Session>
+</NotepadPlus>
